@@ -30,9 +30,7 @@ so your installation will be linked to the newest, bleeding-edge version
 of AxisNetcam):
 
   cd <your Rails application's root directory>
-  ruby script/plugin install -x http://axis-netcam.rubyforge.org/svn/trunk/lib/axis-netcam
-
-<i>NOTE:</i> The plugin install instructions are out of date -- need to change this so that it uses De Poorter's new github repo.
+  ruby script/plugin install -x http://svn.github.com/zuk/axis-netcam.git
 
 === Usage  
 
